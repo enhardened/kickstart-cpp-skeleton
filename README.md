@@ -1,3 +1,10 @@
+## Requirements
+- Visual Studio Code
+- Docker
+- Remote Container extension for VSCode (from Microsoft)
+_I only tested this on windows_
+
+
 ## How to use
 - Clone this repository
 - Open the cloned directory on Visual Studio Code
